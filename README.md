@@ -66,14 +66,7 @@ This means the deployed demo is **fully functional for any visitor**, and the AI
 path is a graceful enhancement rather than a hard dependency — the same reason
 no secret is ever shipped in the bundle.
 
-### A bug worth mentioning
 
-The in-browser engine mis-orders `GROUP BY ... ORDER BY` on joined+grouped
-dimension columns in some cases (a documented quirk). Rather than trust it,
-the query layer detects time-series result shapes (`year` + `month`/`quarter`)
-and enforces chronological order in JavaScript after execution — so trends
-always render correctly regardless of the engine's ordering behaviour. See
-`lib/db.ts › sortChronologically`.
 
 ## Maps to the EBII charter
 
