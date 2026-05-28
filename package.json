@@ -1,0 +1,28 @@
+{
+  "name": "meridian",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MERIDIAN — self-service analytics & reporting platform. Natural-language and SQL querying over an enterprise star schema, with auto-visualization, dashboards, and a full API surface.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "alasql": "^4.5.1",
+    "next": "14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.16.10",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.6.2"
+  }
+}
