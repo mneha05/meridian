@@ -1,6 +1,6 @@
 # MERIDIAN — Self-Service Analytics & Reporting Platform
 
-**Live demo:** _add your Vercel URL here_ · **Source:** github.com/mneha05/meridian
+**Live demo:** **Live demo:** [meridian-omega-two.vercel.app](https://meridian-omega-two.vercel.app/)· **Source:** github.com/mneha05/meridian
 
 Ask a question in plain English or write SQL, get an instant, correctly-chosen
 visualization, and pin results into a live dashboard — over a 12,000-row
