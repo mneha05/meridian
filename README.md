@@ -7,7 +7,7 @@ visualization, and pin results into a live dashboard — over a 12,000-row
 enterprise data warehouse that runs **entirely in your browser**. No backend
 database, no login, no API key required.
 
----
+
 
 ## Why this exists
 
@@ -98,6 +98,7 @@ Verify the data + every curated query:
 
 ```bash
 node test-queries.js
+
 ```
 
 ## Deploy
