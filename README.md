@@ -7,8 +7,6 @@ visualization, and pin results into a live dashboard — over a 12,000-row
 enterprise data warehouse that runs **entirely in your browser**. No backend
 database, no login, no API key required.
 
-
-
 ## Why this exists
 
 This is a working model of a self-service business-intelligence tool: the kind
